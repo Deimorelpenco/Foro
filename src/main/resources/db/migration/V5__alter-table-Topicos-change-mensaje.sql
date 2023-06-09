@@ -1,0 +1,1 @@
+alter table Topicos change mensaje mensaje varchar(300) not null unique;
